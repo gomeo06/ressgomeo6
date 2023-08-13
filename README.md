@@ -1,1 +1,0 @@
-# ressgomeo6
