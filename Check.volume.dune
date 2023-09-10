@@ -290,3 +290,5 @@ select sender,sum(token_amount) as totalUSD
 from ftm_value
 group by sender
 order by totalUSD desc
+Hàng ngày tôi sẽ đăng các câu hỏi multichoice lên Instagram của tôi và tại đây nữa!
+
