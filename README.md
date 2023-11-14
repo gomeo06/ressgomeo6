@@ -1,2 +1,2 @@
-# ressgomeo6
-https://app.holograph.xyz/collections/12e900c0-376f-454c-908e-79407b98ec4e/nfts/f1ab577f-2db2-434a-bcf1-186a9c293646
+His former co-host Gavin Pitchford told 2GB that his friend - though a Sydney local - regularly visited the spot on the Olive River, about 600km (370 miles) north of Cairns.
+
