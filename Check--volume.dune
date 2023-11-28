@@ -1,4 +1,4 @@
- with ftm_value as(
+done with ftm_value as(
  SELECT   --ftm
         'FTM' as chain,
         fan.call_tx_hash as tx,   
